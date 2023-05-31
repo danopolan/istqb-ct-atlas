@@ -9,7 +9,7 @@ An agile test leader can foster the opportunities for improvements across agile 
 
 It is important to understand the benefits of PDCA cycles and to be able to conduct each step. This includes overcoming potential challenges of using PDCA.
 
-There are other variations of PDCA (e.g., Plan-Do-Study-Act), and other improvement models (e.g., IDEAL). These variations are not covered in this certification. See ISTQB Expert Level Improving the Testing Process for more details on test process improvement (ISTQB®, 2011). DPO was here.
+There are other variations of PDCA (e.g., Plan-Do-Study-Act), and other improvement models (e.g., IDEAL). These variations are not covered in this certification. See ISTQB Expert Level Improving the Testing Process for more details on test process improvement (ISTQB®, 2011).  
 
 ### 3.1.2 Embedding PDCA in the Organization
 PDCA can be used for local experiments to improve as well as to broader improvement initiatives. Only doing improvements locally will not scale. It is therefore important that learnings and methods are shared in order to foster organizational learning.
