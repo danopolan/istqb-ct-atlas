@@ -1,5 +1,4 @@
 ## 2.1 Facilitate Value Stream Mapping
-TEST ATLaS-PO
 Agile test leaders and agile test team leaders will need to be able to facilitate and contribute to value stream mapping (VSM) activities. Their focus is to optimize quality and testing processes to improve flow and realize value for the customers in a more effective and efficient way.
 
 ### 2.1.1 What is a Value Stream?
