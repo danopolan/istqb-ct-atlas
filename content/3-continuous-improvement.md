@@ -1,6 +1,6 @@
 ﻿## 3.1 Structured Problem-Solving Approach for Testing and Quality Activities
 
-Problem-solving in a value-driven organization may need to span multiple agile teams and sometimes even multiple value streams, as discussed in Chapter 2. This requires a problem-solving approach that both aligns with lean and agile practices and takes a holistic view. Therefore, agile test leaders and agile test team leaders need to be able to understand and use theories and techniques from systems thinking to identify root causes in complex environments.
+Changes to line 3 by DPO. Problem-solving in a value-driven organization may need to span multiple agile teams and sometimes even multiple value streams, as discussed in Chapter 2. This requires a problem-solving approach that both aligns with lean and agile practices and takes a holistic view. Therefore, agile test leaders and agile test team leaders need to be able to understand and use theories and techniques from systems thinking to identify root causes in complex environments.
 
 ### 3.1.1 Plan-Do-Check-Act Cycle
 The Plan-Do-Check-Act (PDCA) cycle is a practical problem-solving and continuous improvement approach created by W. Edwards Deming. A fundamental principle of PDCA is iteration and seeing improvement efforts as experiments.
