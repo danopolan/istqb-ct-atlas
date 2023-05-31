@@ -1,4 +1,4 @@
-﻿## 2.1 Facilitate Value Stream Mapping
+## 2.1 Facilitate Value Stream Mapping
 
 Agile test leaders and agile test team leaders will need to be able to facilitate and contribute to value stream mapping (VSM) activities. Their focus is to optimize quality and testing processes to improve flow and realize value for the customers in a more effective and efficient way.
 
@@ -10,9 +10,7 @@ working steps, including the people and systems that they operate, as well as th
 There are two typical types of value streams: operational and development. Operational value streams are all the steps and people required to bring a product from order to delivery (Lean Enterprise Institute, 2014). Development value streams take a product from concept to market launch (Lean Enterprise Institute, 2014). Key aspects of value streams are to understand the lean concepts of flow (which resonates with stream) and waste (non-value-adding activities).
 
 ### 2.1.2 Value Stream Mapping
-Value stream mapping is a technique for visualizing and analyzing the steps in a value stream. Mapping a value stream can give a shared understanding of how, how much, and how fast the value stream
-
-is able to deliver value in order to fulfi  customer demand. This certifi	covers basic visualization techniques, typical steps in value stream mapping, and practical examples where value stream mapping could be used to map the current state of operation (current state map). A current state map can evolve to a desired state (future state map) if fostered by quality management approaches.
+Value stream mapping is a technique for visualizing and analyzing the steps in a value stream. Mapping a value stream can give a shared understanding of how, how much, and how fast the value stream is able to deliver value in order to fulfill customer demand. This certification	covers basic visualization techniques, typical steps in value stream mapping, and practical examples where value stream mapping could be used to map the current state of operation (current state map). A current state map can evolve to a desired state (future state map) if fostered by quality management approaches.
 
 It is also important to understand typical challenges when introducing value stream mapping in an organization.
 
