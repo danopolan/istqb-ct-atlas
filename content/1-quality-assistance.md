@@ -1,17 +1,17 @@
-﻿## 1.1 What is Quality Assistance?
+## 1.1 What is Quality Assistance?
 Quality assistance is an approach to quality management that is crucial to developing and sustaining a value-driven organization.
 
 The certification covers how quality assistance as an approach fits with known software testing concepts such as test management, quality control, and quality assurance.
 
 Quality assistance is the approach test management should embrace to help in adopting and fostering a transformation to business agility. A quality assistance approach to test management is significantly different from a traditional mindset and traditional approach (Gartner, 2018). Some important differences are as follows:
 
-*  Optimizes for flow and value delivery
-*  Focuses on prevention, automation, and observability
-*  Encourages built-in quality practices continuously
-*  Supports self-empowered teams by enabling others to take responsibility for quality- and testing-related activities
-*  Embeds testing throughout the organization instead of sustaining testing silos
-*  Requires agile test leaders and agile test team leaders that serve, rather than test managers that control
-*  Has agile test leaders and agile test team leaders helping everyone in the organization collaborate through community of practice events
+* Optimizes for flow and value delivery
+* Focuses on prevention, automation, and observability
+* Encourages built-in quality practices continuously
+* Supports self-empowered teams by enabling others to take responsibility for quality- and testing-related activities
+* Embeds testing throughout the organization instead of sustaining testing silos
+* Requires agile test leaders and agile test team leaders that serve, rather than test managers that control
+* Has agile test leaders and agile test team leaders helping everyone in the organization collaborate through community of practice events
 
 It is important to understand that test management as a discipline is still needed as part of quality assistance in value-driven organizations.
 
