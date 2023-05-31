@@ -1,5 +1,5 @@
 ﻿## 3.1 Structured Problem-Solving Approach for Testing and Quality Activities
-
+DPO was HERE
 Problem-solving in a value-driven organization may need to span multiple agile teams and sometimes even multiple value streams, as discussed in Chapter 2. This requires a problem-solving approach that both aligns with lean and agile practices and takes a holistic view. Therefore, agile test leaders and agile test team leaders need to be able to understand and use theories and techniques from systems thinking to identify root causes in complex environments.
 
 ### 3.1.1 Plan-Do-Check-Act Cycle
